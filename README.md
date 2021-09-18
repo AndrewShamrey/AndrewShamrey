@@ -18,9 +18,19 @@ Team supervision and setuping development methodologies.
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/andreyshamrey)
 
 ### Projects:
-- [Shelter](https://rolling-scopes-school.github.io/andrewshamrey-JS2020Q3/shelter/)
-- [Momentum](https://rolling-scopes-school.github.io/andrewshamrey-JS2020Q3/momentum/)
+- [Minesweeper](https://andrewshamrey-react-game.netlify.app/)
+- [Gem Puzzle](https://rolling-scopes-school.github.io/andrewshamrey-JS2020Q3/gem-puzzle/)
+- [Learn English](https://andrewshamrey-rslang.netlify.app/)
+- [English for kids](https://rolling-scopes-school.github.io/andrewshamrey-JS2020Q3/english-for-kids/)
+- [Travel App](https://andrewshamrey-travel-app.netlify.app/)
+- [Covid Dashboard](https://andrewshamrey-covid-dashboard.netlify.app/)
+- [Clone 103 in React](https://rsclone-103.netlify.app/)
 - [Calculator](https://rolling-scopes-school.github.io/andrewshamrey-JS2020Q3/calculator/)
+- [Virtual Keyboard](https://rolling-scopes-school.github.io/andrewshamrey-JS2020Q3/virtual-keyboard/)
+- [Virtual Piano](https://rolling-scopes-school.github.io/andrewshamrey-JS2020Q3/virtual-piano/)
+- [Momentum](https://rolling-scopes-school.github.io/andrewshamrey-JS2020Q3/momentum/)
+- [Autocompleter](https://andrewshamrey-auto-complete.netlify.app/)
+- [Shelter](https://rolling-scopes-school.github.io/andrewshamrey-JS2020Q3/shelter/)
 
 ### Languages and Tools:
 ![HTML](https://img.shields.io/badge/html-%23e48826.svg?style=for-the-badge&logo=html5&logoColor=white)
