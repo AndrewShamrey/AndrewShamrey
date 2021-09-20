@@ -24,8 +24,8 @@ Team supervision and setuping development methodologies.
 |<img src="https://i.imgur.com/HzbWCUwm.png" width="150" style="display:block;"/>|<img src="https://i.imgur.com/Jhf74OXm.png" width="150"/>|<img src="https://i.imgur.com/BCZjWtRm.png" width="150"/>|<img src="https://i.imgur.com/kctVsCtm.png" width="150"/>|<img src="https://i.imgur.com/sbGBJrim.png" width="150"/>|
 |[Calculator](https://rolling-scopes-school.github.io/andrewshamrey-JS2020Q3/calculator/)|[Travel App](https://andrewshamrey-travel-app.netlify.app/)|[Covid Dashboard](https://andrewshamrey-covid-dashboard.netlify.app/)|[Virtual Keyboard](https://rolling-scopes-school.github.io/andrewshamrey-JS2020Q3/virtual-keyboard/)|[Virtual Piano](https://rolling-scopes-school.github.io/andrewshamrey-JS2020Q3/virtual-piano/)|
 |<img src="https://i.imgur.com/TacacLqm.png" width="150"/>|<img src="https://i.imgur.com/z6N4aMRm.png" width="150"/>|<img src="https://i.imgur.com/Lrk6YrSm.png" width="150"/>|<img src="https://i.imgur.com/tzM8gAmm.png" width="150"/>|<img src="https://i.imgur.com/D7aKjEGm.png" width="150"/>|
-|[Momentum](https://rolling-scopes-school.github.io/andrewshamrey-JS2020Q3/momentum/)|[Autocompleter](https://andrewshamrey-auto-complete.netlify.app/)|[Shelter](https://rolling-scopes-school.github.io/andrewshamrey-JS2020Q3/shelter/)|
-|<img src="https://i.imgur.com/tdWw8tem.png" width="150"/>|<img src="https://i.imgur.com/RMlREmqm.png" width="150"/>|<img src="https://i.imgur.com/9GelyhBm.png" width="150"/>|
+||[Momentum](https://rolling-scopes-school.github.io/andrewshamrey-JS2020Q3/momentum/)|[Autocompleter](https://andrewshamrey-auto-complete.netlify.app/)|[Shelter](https://rolling-scopes-school.github.io/andrewshamrey-JS2020Q3/shelter/)|
+||<img src="https://i.imgur.com/tdWw8tem.png" width="150"/>|<img src="https://i.imgur.com/RMlREmqm.png" width="150"/>|<img src="https://i.imgur.com/9GelyhBm.png" width="150"/>|
 
 ### Languages and Tools:
 ![HTML](https://img.shields.io/badge/html-%23e48826.svg?style=for-the-badge&logo=html5&logoColor=white)
