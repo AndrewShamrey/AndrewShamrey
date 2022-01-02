@@ -7,12 +7,13 @@ In my spare time, I create beautiful and productive applications.
 In general, my technical experience is about one year of commercial software development on technologies such as Core JavaScript, TypeScript, HTML5, CSS3. During this time I worked with such libraries/frameworks as React/Redux, Node.js, AWS, Serverless.
 
 Primary skill - Development of serverless applications in NodeJS. 
-Experience in developing applications using JS, React, Redux, TypeScript. REST API development using Express.
-Writing API-, Unit- and Contract tests for different applications.
-HTML/CSS cross-browser development. Responsive design.
-Basic knowledges in React Native development.
-Development of projects for corporate networks using Cisco IOS.
-Team supervision and setuping development methodologies.
+
+ - Experience in developing applications using JS, React, Redux, TypeScript. REST API development using Express.
+ - Writing API-, Unit- and Contract tests for different applications.
+ - HTML/CSS cross-browser development. Responsive design.
+ - Basic knowledges in React Native development.
+ - Development of projects for corporate networks using Cisco IOS.
+ - Team supervision and setuping development methodologies.
 
 <div align="center">
   <a href="https://github.com/AndrewShamrey?tab=repositories&sort=stargazers">
