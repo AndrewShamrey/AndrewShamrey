@@ -4,11 +4,13 @@ I'm Andrei Shamrei, a software engineer based in Minsk, Belarus.
 I am a JavaScript FullStack Developer with a focus on results and development, through deep knowledge in technologies, building effective processes and communication on a project.
 In my spare time, I create beautiful and productive applications.
 
-In general, my technical experience is about one year of commercial software development on technologies such as Core Javascript, HTML5, CSS3. During this time I worked with such libraries/frameworks as React/Redux, Node.js, AWS, Serverless.
+In general, my technical experience is about one year of commercial software development on technologies such as Core JavaScript, TypeScript, HTML5, CSS3. During this time I worked with such libraries/frameworks as React/Redux, Node.js, AWS, Serverless.
 
-Primary skill - Development of client applications in React.
+Primary skill - Development of serverless applications in NodeJS. 
 Experience in developing applications using JS, React, Redux, TypeScript. REST API development using Express.
-HTML/CSS cross-browser development. Responsive design
+Writing API-, Unit- and Contract tests for different applications.
+HTML/CSS cross-browser development. Responsive design.
+Basic knowledges in React Native development.
 Development of projects for corporate networks using Cisco IOS.
 Team supervision and setuping development methodologies.
 
