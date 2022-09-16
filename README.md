@@ -1,12 +1,12 @@
-### 👋 Greetings! <img align="right" src="https://komarev.com/ghpvc/?username=AndrewShamrey&label=Profile%20Views%20&color=ff0000&style=flat-square" alt="Andrew" />
+### 👋 Greetings!
 
 I'm Andrei Shamrei, a software engineer based in Minsk, Belarus.
 I am a JavaScript FullStack Developer with a focus on results and development, through deep knowledge in technologies, building effective processes and communication on a project.
 In my spare time, I create beautiful and productive applications.
 
-In general, my technical experience is about one year of commercial software development on technologies such as Core JavaScript, TypeScript, HTML5, CSS3. During this time I worked with such libraries/frameworks as React/Redux, Node.js, AWS, Serverless.
+In general, my technical experience is more than one year of commercial software development on technologies such as Core JavaScript, TypeScript, Node.js, AWS, Serverless, React/Redux.
 
-Primary skill - Development of serverless applications in NodeJS. 
+Primary skill - **Development of serverless applications in NodeJS.**
 
  - Experience in developing applications using JS, React, Redux, TypeScript. REST API development using Express.
  - Writing API-, Unit- and Contract tests for different applications.
@@ -32,15 +32,13 @@ Primary skill - Development of serverless applications in NodeJS.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andreyshamrey)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/andreyshamrey)
 
-### 💻 Projects:
+### 💻 Pet-projects:
 
-|[Minesweeper](https://andrewshamrey-react-game.netlify.app/)|[Gem Puzzle](https://rolling-scopes-school.github.io/andrewshamrey-JS2020Q3/gem-puzzle/)|[Learn English](https://andrewshamrey-rslang.netlify.app/)|[English for kids](https://rolling-scopes-school.github.io/andrewshamrey-JS2020Q3/english-for-kids/)|[Clone 103 in React](https://rsclone-103.netlify.app/)|
+|[Minesweeper](https://andrewshamrey-react-game.netlify.app/)|[Gem Puzzle](https://rolling-scopes-school.github.io/andrewshamrey-JS2020Q3/gem-puzzle/)|[Calculator](https://rolling-scopes-school.github.io/andrewshamrey-JS2020Q3/calculator/)|[English for kids](https://rolling-scopes-school.github.io/andrewshamrey-JS2020Q3/english-for-kids/)|[Virtual Keyboard](https://rolling-scopes-school.github.io/andrewshamrey-JS2020Q3/virtual-keyboard/)|
 |:----:|:----:|:----:|:----:|:----:|
-|<img src="https://i.imgur.com/HzbWCUwm.png" width="150" style="display:block;"/>|<img src="https://i.imgur.com/Jhf74OXm.png" width="150"/>|<img src="https://i.imgur.com/BCZjWtRm.png" width="150"/>|<img src="https://i.imgur.com/kctVsCtm.png" width="150"/>|<img src="https://i.imgur.com/sbGBJrim.png" width="150"/>|
-|[Calculator](https://rolling-scopes-school.github.io/andrewshamrey-JS2020Q3/calculator/)|[Travel App](https://andrewshamrey-travel-app.netlify.app/)|[Covid Dashboard](https://andrewshamrey-covid-dashboard.netlify.app/)|[Virtual Keyboard](https://rolling-scopes-school.github.io/andrewshamrey-JS2020Q3/virtual-keyboard/)|[Virtual Piano](https://rolling-scopes-school.github.io/andrewshamrey-JS2020Q3/virtual-piano/)|
-|<img src="https://i.imgur.com/TacacLqm.png" width="150"/>|<img src="https://i.imgur.com/z6N4aMRm.png" width="150"/>|<img src="https://i.imgur.com/Lrk6YrSm.png" width="150"/>|<img src="https://i.imgur.com/tzM8gAmm.png" width="150"/>|<img src="https://i.imgur.com/D7aKjEGm.png" width="150"/>|
-||[Momentum](https://rolling-scopes-school.github.io/andrewshamrey-JS2020Q3/momentum/)|[Autocompleter](https://andrewshamrey-auto-complete.netlify.app/)|[Shelter](https://rolling-scopes-school.github.io/andrewshamrey-JS2020Q3/shelter/)|
-||<img src="https://i.imgur.com/tdWw8tem.png" width="150"/>|<img src="https://i.imgur.com/RMlREmqm.png" width="150"/>|<img src="https://i.imgur.com/9GelyhBm.png" width="150"/>|
+|<img src="https://i.imgur.com/HzbWCUwm.png" width="150" style="display:block;"/>|<img src="https://i.imgur.com/Jhf74OXm.png" width="150"/>|<img src="https://i.imgur.com/TacacLqm.png" width="150"/>|<img src="https://i.imgur.com/kctVsCtm.png" width="150"/>|<img src="https://i.imgur.com/tzM8gAmm.png" width="150"/>|
+|[Virtual Piano](https://rolling-scopes-school.github.io/andrewshamrey-JS2020Q3/virtual-piano/)|[Momentum](https://rolling-scopes-school.github.io/andrewshamrey-JS2020Q3/momentum/)|[Autocompleter](https://andrewshamrey-auto-complete.netlify.app/)|[Shelter](https://rolling-scopes-school.github.io/andrewshamrey-JS2020Q3/shelter/)|
+|<img src="https://i.imgur.com/D7aKjEGm.png" width="150"/>|<img src="https://i.imgur.com/tdWw8tem.png" width="150"/>|<img src="https://i.imgur.com/RMlREmqm.png" width="150"/>|<img src="https://i.imgur.com/9GelyhBm.png" width="150"/>|
 
 ### 🛠 Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
