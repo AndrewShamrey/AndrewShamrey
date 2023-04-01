@@ -1,10 +1,9 @@
 ### 👋 Greetings!
 
-I'm Andrei Shamrei, a software engineer based in Minsk, Belarus.
-I am a JavaScript FullStack Developer with a focus on results and development, through deep knowledge in technologies, building effective processes and communication on a project.
-In my spare time, I create beautiful and productive applications.
+I'm Andrei Shamrei, a software engineer based in Tbilisi, Georgia.
+I am a JavaScript Backend Developer with a focus on results and development, through deep knowledge in technologies, building effective processes and communication on a project.
 
-In general, my technical experience is more than one year of commercial software development on technologies such as Core JavaScript, TypeScript, Node.js, AWS, Serverless, React/Redux.
+In general, my technical experience is about two years of commercial software development on technologies such as TypeScript, Node.js, AWS, Serverless, React, Redux.
 
 Primary skill - **Development of serverless applications in NodeJS.**
 
@@ -32,14 +31,6 @@ Primary skill - **Development of serverless applications in NodeJS.**
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andreyshamrey)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/andreyshamrey)
 
-### 💻 Pet-projects:
-
-|[Minesweeper](https://andrewshamrey-react-game.netlify.app/)|[Gem Puzzle](https://rolling-scopes-school.github.io/andrewshamrey-JS2020Q3/gem-puzzle/)|[Calculator](https://rolling-scopes-school.github.io/andrewshamrey-JS2020Q3/calculator/)|[English for kids](https://rolling-scopes-school.github.io/andrewshamrey-JS2020Q3/english-for-kids/)|[Virtual Keyboard](https://rolling-scopes-school.github.io/andrewshamrey-JS2020Q3/virtual-keyboard/)|
-|:----:|:----:|:----:|:----:|:----:|
-|<img src="https://i.imgur.com/HzbWCUwm.png" width="150" style="display:block;"/>|<img src="https://i.imgur.com/Jhf74OXm.png" width="150"/>|<img src="https://i.imgur.com/TacacLqm.png" width="150"/>|<img src="https://i.imgur.com/kctVsCtm.png" width="150"/>|<img src="https://i.imgur.com/tzM8gAmm.png" width="150"/>|
-|[Virtual Piano](https://rolling-scopes-school.github.io/andrewshamrey-JS2020Q3/virtual-piano/)|[Momentum](https://rolling-scopes-school.github.io/andrewshamrey-JS2020Q3/momentum/)|[Autocompleter](https://andrewshamrey-auto-complete.netlify.app/)|[Shelter](https://rolling-scopes-school.github.io/andrewshamrey-JS2020Q3/shelter/)|
-|<img src="https://i.imgur.com/D7aKjEGm.png" width="150"/>|<img src="https://i.imgur.com/tdWw8tem.png" width="150"/>|<img src="https://i.imgur.com/RMlREmqm.png" width="150"/>|<img src="https://i.imgur.com/9GelyhBm.png" width="150"/>|
-
 ### 🛠 Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -56,9 +47,6 @@ Primary skill - **Development of serverless applications in NodeJS.**
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=Docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=Git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-000?&style=for-the-badge&logo=markdown&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-2D80FF?&style=for-the-badge&logo=jira&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-5920B1?&style=for-the-badge&logo=heroku&logoColor=white)
-![VSCcode](https://img.shields.io/badge/vscode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
