@@ -3,15 +3,12 @@
 I'm Andrei Shamrei, a software engineer based in Tbilisi, Georgia.
 I am a JavaScript Backend Developer with a focus on results and development, through deep knowledge in technologies, building effective processes and communication on a project.
 
-In general, my technical experience is about two years of commercial software development on technologies such as TypeScript, Node.js, AWS, Serverless, React, Redux.
-
-Primary skill - **Development of serverless applications in NodeJS.**
+Primary skill - **Development of Serverless applications in NodeJS with AWS**
 
  - Experience in developing applications using JS, React, Redux, TypeScript. REST API development using Express.
  - Writing API-, Unit- and Contract tests for different applications.
  - HTML/CSS cross-browser development. Responsive design.
  - Basic knowledges in React Native development.
- - Development of projects for corporate networks using Cisco IOS.
  - Team supervision and setuping development methodologies.
 
 <div align="center">
